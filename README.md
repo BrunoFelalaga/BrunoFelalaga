@@ -12,7 +12,7 @@
 ---
 
 ## 🛠️ Technical Interests
-- Distributed Systems & Serverless Platforms
+- Distributed Systems & Cloud Computing
 - Computer Vision & Document Understanding
 - Machine Learning & Generative AI
 - Human-Computer Integration
