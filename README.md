@@ -71,7 +71,7 @@
 
 ---
 
-## 💼 Notable Projects
+## 💼 Sample of Projects
 | Project | Description |
 |--------|-------------|
 | [🖼️ Image Extraction](https://github.com/acguerr1/PicAxe/tree/picaxe_paddleocr) | Software for figure extraction from image-based scanned PDFs. Two versions, one based on programmatic extraction with PaddleOCR and another with fine-tuned YOLOv8 object detection model  | 
@@ -81,7 +81,7 @@
 | [📄 PDF Chatbot (RAG)](https://github.com/BrunoFelalaga/RAG_PDF_Chatbot) | Built a LangChain-based document chatbot using OpenAI embeddings + FAISS |
 | [🖐️ EIT Gesture Recognition](https://github.com/BrunoFelalaga) *(Private)* | Real-time gesture classifier using Electrical Impedance Tomography + EMS control |
 | [🖋️ penOCR](https://github.com/BrunoFelalaga/penOCR) | iOS application for OCR transcription of handwritten notes and general document management |
-
+| [☁️ Weather + Search + Python Agent](https://github.com/BrunoFelalaga/weather_search_and_python_tooled_agent) | Demonstrative Python + LangChain agent using OpenWeatherMap, Tavily WebSearch, and Python REPL tools |
 
 <!-- ---
 
@@ -99,5 +99,5 @@
 
 ---
 
-> "Building things that matter... \
-   Always learning, always connecting, always building."
+> "Building things I enjoy, that matter... \
+   Always learning, always connecting, always thinking."
