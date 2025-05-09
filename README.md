@@ -82,7 +82,7 @@
 | [📄 PDF Chatbot (RAG)](https://github.com/BrunoFelalaga/RAG_PDF_Chatbot) | Built a LangChain-based document chatbot using OpenAI embeddings + FAISS |
 | [🖐️ EIT Gesture Recognition](https://github.com/BrunoFelalaga) *(Private)* | Real-time gesture classifier using Electrical Impedance Tomography + EMS control |
 | [🖋️ penOCR](https://github.com/BrunoFelalaga/penOCR) | iOS application for OCR transcription of handwritten notes and general document management |
-| [☁️ Weather + Search + Python Agent](https://github.com/BrunoFelalaga/weather_search_and_python_tooled_agent) | Demonstrative Python + LangChain agent using OpenWeatherMap, Tavily WebSearch, and Python REPL tools to answer queries needing them queries|
+| [☁️ Weather + Search + Python Agent](https://github.com/BrunoFelalaga/weather_search_and_python_tooled_agent) | Demonstrative Python + LangChain agent using OpenWeatherMap, Tavily WebSearch, and Python REPL tools to answer queries needing tools|
 
 <!-- ---
 
